@@ -1,3 +1,3 @@
 # umangS77.github.io
-Personal Website
-open index.html in web browser
+Personal Website.
+Open index.html in web browser.

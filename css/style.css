@@ -25,12 +25,12 @@ a:hover {
 }
 
 .skillimg {
+  height: 64px;
   padding: 5px 5px 5px 5px;
 }
 
 .skillimg:hover {
   height: 80px;
-  width: 80px;
 }
 
 .p-r {
